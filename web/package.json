@@ -44,6 +44,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-node": "^5.1.1"
+		"@sveltejs/adapter-node": "^5.2.0"
 	}
 }
